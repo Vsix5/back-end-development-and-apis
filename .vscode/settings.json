@@ -15,7 +15,7 @@
     "package.json": true,
     "README.md": true,
     "build-a-timestamp-microservice": true,
-    "build-a-web-server": false,
+    "build-a-web-server": true,
     "learn-nodejs-repl": true,
     "build-a-case-converter": true,
     "build-a-prime-number-checker-module": true,
@@ -28,7 +28,7 @@
     "build-a-weather-service-api": true,
     "build-a-bank-api": true,
     "build-a-resource-monitor": true,
-    "build-a-chat-app": true,
+    "build-a-chat-app": false,
     "build-jwt-protected-routes": true
   },
   "chat.disableAIFeatures": true,
